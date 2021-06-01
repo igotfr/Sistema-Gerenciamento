@@ -1,0 +1,31 @@
+{
+  "background_color": "#0F1A26",
+  "theme_color": "#FFFFFF",
+  "name": "Lead",
+  "short_name": "Lead",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/touch-icons/logo-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/touch-icons/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/touch-icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/touch-icons/logo-800.png",
+      "sizes": "800x800",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
