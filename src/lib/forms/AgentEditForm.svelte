@@ -10,7 +10,7 @@
 	import { getStorageData } from '../../../utils/sessionStorage';
 	import { heroku } from '../../strapi/url';
 	import Alert from '$lib/Alert.svelte';
-	import { validationSchema } from '../../stores/agent-store';
+	import { validationSchema } from '../../stores/agents-store';
 
 	// Variáveis de usuário
 	let user = browser ? getStorageData('user', false) : null;
